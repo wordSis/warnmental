@@ -1,0 +1,38 @@
+.card{
+	background-color: #fff;
+	height: 36vh;
+	border-radius: 10px;
+	box-shadow: 1px 1px #C8C8C8;
+	position: relative;
+	text-align: center;
+}
+.cardinput{
+	background-color: #fff;
+	border-radius: 10px;
+}
+.cardtitle{
+	font-size: 24px;
+	font-weight: bold;
+	color: #111;
+	/* text-align: center; */
+	padding-top: 10px;
+}
+.cardfoot{
+	font-size: 16px;
+	font-weight:normal;
+	color: #444;
+	position: absolute;
+	bottom: 20px;
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	text-align: center;
+}
+.num {
+  font-size: 80px; 
+  color: #5CABE4;
+  font-weight: bold; 
+  text-align: center;
+  font-family: 'MicrosoftYaHei';
+  /* margin: auto; */
+}

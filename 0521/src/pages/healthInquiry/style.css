@@ -1,0 +1,28 @@
+.cardcontainer :global(  .ant-tabs-card > .ant-tabs-content ){
+    height: 120px;
+    margin-top: -16px;
+  }
+  
+  .cardcontainer :global(  .ant-tabs-card > .ant-tabs-content > .ant-tabs-tabpane) {
+    background: #fff;
+    padding: 16px;
+  }
+  
+  .cardcontainer :global(  .ant-tabs-card > .ant-tabs-bar ){
+    border-color: #fff;
+  }
+  
+  .cardcontainer :global(  .ant-tabs-card > .ant-tabs-bar .ant-tabs-tab) {
+    border-color: transparent;
+    background: transparent;
+  }
+  
+   .cardcontainer :global( .ant-tabs-card > .ant-tabs-bar .ant-tabs-tab-active) {
+    border-color: #fff;
+    background:rgba(0, 204, 102, 1) ;
+    color:#000;
+  } 
+  .cardcontainer :global(.ant-tabs >.ant-tabs-bar >.ant-tabs-nav-container >.ant-tabs-nav-wrap > .ant-tabs-nav-scroll){
+    text-align: center;
+  }
+  

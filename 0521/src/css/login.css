@@ -1,0 +1,37 @@
+.loginform {
+  width: 300px;
+  position:absolute;
+  left:50%;
+  top:30%;
+  margin-left:-150px;
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 20px;
+  padding-bottom: 5px;
+}
+.loginformregist {
+  float: left;
+}
+.loginformforgot {
+  float: right;
+}
+.loginformbutton {
+  width: 100%;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.grayloginformbutton {
+  width: 100%;
+  background-color: #F4F4F4;
+  color: #C5C2C1;
+  font-weight: bold;
+  border-color:  #F4F4F4;
+}
+
+.maintitle {
+  font-size:24px;
+  color: #111;
+  font-weight: bold;
+  text-align: center;
+}
